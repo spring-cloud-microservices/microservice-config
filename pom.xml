@@ -71,7 +71,7 @@
 		</plugins>
 	</build>
 
-	<!-- repository (optional) only needed for milestones -->
+	<!--repository (optional) only needed for milestones-->
 	<repositories>
 		<repository>
 			<id>spring-milestones</id>
